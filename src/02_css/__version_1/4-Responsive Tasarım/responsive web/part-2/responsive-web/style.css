@@ -18,7 +18,7 @@ body {
 }
 
 a {
-	text-decoration: none;	
+	text-decoration: none;
 }
 
 p {
@@ -68,16 +68,16 @@ header h1 {
 }
 
 /*section-a*/
-#section-a{
+#section-a {
 	background-color: #eaeaea;
-	color:#333;
+	color: #333;
 	padding: 3.2rem 0;
 }
 
 
 
 /*section-b*/
-#section-b{
+#section-b {
 	padding: 2rem;
 }
 
@@ -87,19 +87,10 @@ header h1 {
 
 #section-b li {
 	background: #fff;
-	color:#333;
+	color: #333;
 	margin-bottom: 1.5rem;
 }
 
 .col-content {
 	padding: 1.5rem;
 }
-
-
-
-
-
-
-
-
-
